@@ -36,6 +36,16 @@ Además de las funcionalidades de los vendedores, los administradores tienen acc
 
 ---
 
+## Demo en Vivo
+➡️ **[Ver Aplicación en Vivo](https://polloexpress.damedominio.xyz/)**
+
+## 🔑 Accesos al Sistema  
+| Rol           | Usuario   | Contraseña   |  
+|---------------|-----------|--------------|  
+| **Administrador** | admin     | admin123     |  
+| **Vendedor (Demo)**  | demo      | demo123      |  
+
+
 ## 📦 Instalación  
 Sigue estos pasos para instalar el proyecto en tu entorno local:  
 
